@@ -2,6 +2,6 @@
 
 // const assorted = ['Mikhael', 39, true];
 
-const players = ['Toni', 'Anwar', 'Mali', 'Carlos', 'Cormac', 'Sariah'];
+// const players = ['Toni', 'Anwar', 'Mali', 'Carlos', 'Cormac', 'Sariah'];
 
-console.log(players[5]);
+// console.log(players[5]);
