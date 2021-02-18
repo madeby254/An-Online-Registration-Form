@@ -6,10 +6,10 @@
 
 // console.log(players[5]);
 
-const guestList = ['Eleven', 'Dustin', 'Lucas', 'Will'];
+// const guestList = ['Eleven', 'Dustin', 'Lucas', 'Will'];
 
-guestList.push('Paka', 'Sungura');
+// guestList.push('Paka', 'Sungura');
 
-guestList.unshift('Simba', 'Rhino');
+// guestList.unshift('Simba', 'Rhino');
 
-console.log(guestList);
+// console.log(guestList);
